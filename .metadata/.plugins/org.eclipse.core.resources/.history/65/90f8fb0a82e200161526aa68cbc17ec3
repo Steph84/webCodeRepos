@@ -57,9 +57,9 @@
             <form name="reviewForm">
               <!--  Live Preview -->
               <blockquote>
-                <strong>{{review.stars}} Stars</strong>
-                {{review.body}}
-                <cite class="clearfix">-{{review.author}}</cite>
+                <strong> Stars</strong>
+                
+                <cite class="clearfix">—</cite>
               </blockquote>
 
               <!--  Review Form -->

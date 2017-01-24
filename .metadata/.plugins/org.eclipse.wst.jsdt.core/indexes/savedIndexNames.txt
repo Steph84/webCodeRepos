@@ -1,8 +1,7 @@
 INDEX VERSION 1.3+C:\Users\stephaneHome\Documents\GitHub\webCodeRepos\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3124192043.index
-13042564.index
-13042564.index
-2195559801.index
-3792438180.index
 2144139668.index
+3124192043.index
+2195559801.index
+13042564.index
 3330042312.index
+3792438180.index
